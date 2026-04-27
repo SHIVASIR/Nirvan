@@ -1,4 +1,4 @@
-🌿 Nirwaan – Smart Internship & Opportunity Platform
+🌿 Nirmaan – Smart Internship & Opportunity Platform
 
 Nirwaan is an intelligent platform designed to help students discover verified internships, jobs, and opportunities while protecting them from scams. It focuses on building a safe, AI-powered ecosystem for students in India.
 
